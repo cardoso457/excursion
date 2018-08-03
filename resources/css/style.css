@@ -2,33 +2,27 @@ body{
   text-align: center;
   background-color: black;
   font-family: Verdana;
-}
-
-.discover{
-  font-weight: normal;
-  font-size: 50px;
   color: white;
 }
 
-a{
+h1{
+  font-weight: normal;
+  font-size: 50px;
+}
+
+.cta{
   color: aquamarine;
   font-size: 16px;
 }
- #personal{
+ h2{
    font-weight: 300;
    font-size: 42px;
-   color: white;
  }
 
 p{
   font-size: 21px;
   color: gray;
 }
-h2{
+.footer{
   text-align: right;
-  color: gray;
-  font-size: 20px;
-}
-img{
-  display:inline-block;
 }
